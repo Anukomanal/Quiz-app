@@ -15,9 +15,7 @@
 ---
 ## 📚 *project structure*
 
-quiz-app/
-|
-
+quiz-app/:
 ├── index.html     # Main quiz page (HTML structure)
 
 ├── style.css      # Styling for the quiz
