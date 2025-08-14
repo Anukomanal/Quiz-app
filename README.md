@@ -13,10 +13,19 @@
 - 🔄 *Restart quiz* option  
 
 ---
+## 📚 *project structure*
+
+quiz-app/
+│
+├── index.html     # Main quiz page (HTML structure)
+├── style.css      # Styling for the quiz
+├── script.js      # Quiz logic, timer, and score calculation
+└── README.md      # Project documentation
 
 ## 🛠 *Tech Stack*  
 
-- *Frontend:* HTML, CSS, JavaScript.
+- *Frontend*: HTML, CSS, JavaScript.
+- *Timer*: JavaScript
 
 ---
 
@@ -35,7 +44,7 @@
 
 ## 📌 *How It Works*
 
-1. Load Questions – The app loads quiz questions from a JavaScript array or JSON file.
+1. Load Questions – The app loads quiz questions from a JavaScript.
 2. Display Question & Options – One question is shown at a time with multiple-choice answers.
 3. User Selects an Answer – The app checks correctness and gives instant feedback.
 4. Score Calculation – Correct answers increase the score.
