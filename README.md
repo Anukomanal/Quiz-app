@@ -16,14 +16,14 @@
 ## 📚 *project structure*
 
 quiz-app/
-
+|
 │
 ├── index.html     # Main quiz page (HTML structure)
-
+|
 ├── style.css      # Styling for the quiz
-
+|
 ├── script.js      # Quiz logic, timer, and score calculation
-
+|
 └── README.md      # Project documentation
 
 ## 🛠 *Tech Stack*  
