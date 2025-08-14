@@ -35,7 +35,7 @@
 
 ---
 
-📌 How It Works
+## 📌 *How It Works*
 
 1. Load Questions – The app loads quiz questions from a JavaScript array or JSON file.
 2. Display Question & Options – One question is shown at a time with multiple-choice answers.
@@ -45,12 +45,9 @@
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 *Author*
 
 (Anu Chennappa komanal)
-
-📧 Email: anuck1609@gmail.com
-
 💼 GitHub: github.com/Anukomanal
 
 ----
