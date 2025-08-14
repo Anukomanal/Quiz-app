@@ -16,9 +16,7 @@
 
 ## 🛠 *Tech Stack*  
 
-- *Frontend:* HTML, CSS, JavaScript 
-
-- *Functionality:* Uses arrays or JSON objects to store questions and answers. JavaScript functions handle question rendering, timer countdown, answer checking, and score     calculation.
+- *Frontend:* HTML, CSS, JavaScript.
 
 ---
 
